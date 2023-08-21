@@ -1,5 +1,5 @@
 <h1><img alt="Cat Coding" src="https://slackmojis.com/emojis/10521-meow_code/image/1680446738/meow_code.gif" width="30"/> Hey! I'm Glynn.</h1>
-<p>Welcome to my GitHub profile. I am a software development student at Varisty College, in South Africa. <img alt="Bunny Study" src="https://slackmojis.com/emojis/60208-spiffo_code/image/1658822675/spiffo_code.png" width="30"/> </p>
+<p>Welcome to my GitHub profile. I am a software development student at Varsity College, in South Africa. <img alt="Bunny Study" src="https://slackmojis.com/emojis/60208-spiffo_code/image/1658822675/spiffo_code.png" width="30"/> </p>
 <p>I am passionate about IT, and am continuously learning new things! <img alt="Bunny Study" src="https://slackmojis.com/emojis/61246-study/image/1679869905/study.png" width="30"/> </p>
 <h4>Languages and tools I use are:</h4>
 <p>
