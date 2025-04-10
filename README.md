@@ -7,7 +7,7 @@
 💼 Working as a **Junior Lecturer** teaching Android development and cloud computing.  
 
 ## What I code in
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudderz243&layout=compact&theme=catppuccin_mocha)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudderz243&layout=donut&theme=catppuccin_mocha)
 
 ## My stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rudderz243&show_icons=true&theme=catppuccin_mocha)
